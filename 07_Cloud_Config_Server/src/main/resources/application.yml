@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: 07_Cloud_Config_Server
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/rams818/Configuration-Properties.git
+
+server:
+  port: 9099

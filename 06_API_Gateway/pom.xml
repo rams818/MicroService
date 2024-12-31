@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ramkumar</groupId>
-	<artifactId>API_Gateway</artifactId>
+	<artifactId>06_API_Gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>API_Gateway</name>
 	<description>Demo project for Spring Boot</description>
